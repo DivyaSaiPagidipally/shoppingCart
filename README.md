@@ -11,3 +11,9 @@ The shopping cart system should have the following functionalities:
 *Search for products in the cart based on their name.*
 
 The system should be implemented using TypeScript. The system should also handle cases where multiple items of the same product are added to the cart and allow for searching products in a case-insensitive manner.
+
+
+
+Ts file can be converted into js by using following commands:
+          tsc filename.ts
+          node filename.js
